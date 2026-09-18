@@ -31,6 +31,6 @@ Voici quelques projets notables réalisés durant mon cursus à l'IUT[cite: 2]. 
 
 L'informatique est pour moi plus qu'une voie professionnelle, c'est une véritable passion :
 *   **Tech & Dev :** Sur mon temps libre, je m'adonne au codage (notamment le développement d'applications Android), à la modélisation 3D, et je réalise le montage complet de PC fixes.
-*   **Culture Geek :** Je suis amateur d'animes et de jeux vidéo, particulièrement les jeux d'aventure (Zelda) et les jeux compétitifs[cite: 2].
-*   **Sport :** Je suis actif et compétiteur. Je pratique le tennis en club et en compétition depuis 2015, et j'ai également fait du judo entre 2012 et 2014[cite: 2].
+*   **Culture Geek :** Je suis amateur d'animes et de jeux vidéo, particulièrement les jeux d'aventure (Zelda) et les jeux compétitifs.
+*   **Sport :** Je suis actif et compétiteur. Je pratique le tennis en club et en compétition depuis 2015, et j'ai également fait du judo entre 2012 et 2014.
 *   **Bénévolat & Bricolage :** De nature énergique et bricoleur, je suis bénévole à l'établissement Saint-Joseph de Neuville-aux-bois où j'aide à la sécurité, à l'installation de salles de spectacle et au montage de stands durant les évenements de fêtes. J'aime aussi les travaux manuels d'extérieur (tonte, peinture, montage divers).
