@@ -9,7 +9,7 @@ Actuellement en 2ème année de BUT Informatique à l'IUT d'Orléans (Universit�
 *   **Email :** [benoit.desard.pro@gmail.com](mailto:benoit.desard.pro@gmail.com)
 *   **Email Universitaire :** [benoit.desard@etu.univ-orleans.fr](benoit.desard@etu.univ-orleans.fr)
 *   **LinkedIn :** [www.linkedin.com/in/benoitdesard](https://www.linkedin.com/in/benoitdesard)
-*   **Portfolio :** [[https://urlz.fr/vilR](https://urlz.fr/vilR)](https://urlz.fr/vi1R)
+*   **[Mon PortFolio]** (https://urlz.fr/vi1R)
 
 ## 🛠️ Langages et Outils
 
